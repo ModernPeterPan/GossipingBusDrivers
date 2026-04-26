@@ -1,0 +1,15 @@
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\bin\Debug\net10.0\Gossiping Bus Drivers.exe
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\bin\Debug\net10.0\Gossiping Bus Drivers.deps.json
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\bin\Debug\net10.0\Gossiping Bus Drivers.runtimeconfig.json
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\bin\Debug\net10.0\Gossiping Bus Drivers.dll
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\bin\Debug\net10.0\Gossiping Bus Drivers.pdb
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.AssemblyInfoInputs.cache
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.AssemblyInfo.cs
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.csproj.CoreCompileInputs.cache
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.sourcelink.json
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.dll
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\refint\Gossiping Bus Drivers.dll
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.pdb
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\Gossiping Bus Drivers.genruntimeconfig.cache
+C:\Users\msl_1\OneDrive\Documents\Katas\Gossiping Bus Drivers\obj\Debug\net10.0\ref\Gossiping Bus Drivers.dll
