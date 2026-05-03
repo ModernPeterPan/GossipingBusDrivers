@@ -2,7 +2,7 @@ namespace Gossiping_Bus_Drivers;
 
 public class BusDriverService
 {
-    public static int CountChismes(int[] arrayUn, int[] arrayDeux, int[]? arrayTrois = null)
+    public int CountChismes(int[] arrayUn, int[] arrayDeux, int[]? arrayTrois = null)
     {
         int nbChismesUn = 1;
         int nbChismesDeux = 1;
